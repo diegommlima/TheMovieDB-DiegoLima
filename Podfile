@@ -6,5 +6,6 @@ target 'TheMovieDB-DiegoLima' do
   use_frameworks!
 
   # Pods for TheMovieDB-DiegoLima
+  pod 'ReachabilitySwift'
   pod 'SwiftLint'
 end
