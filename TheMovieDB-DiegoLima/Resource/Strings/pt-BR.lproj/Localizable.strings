@@ -1,0 +1,7 @@
+
+"test.test" = "testando";
+
+"movie_list.upcoming" = "Em breve";
+"movie_list.popular" = "Populares";
+"movie_list.upcoming.title" = "Próximos lançamentos";
+"movie_list.popular.title" = "Populares";
