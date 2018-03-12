@@ -1,2 +1,7 @@
 
 "test.test" = "testando";
+
+"movie_list.upcoming" = "Upcoming";
+"movie_list.popular" = "Popular";
+"movie_list.upcoming.title" = "Upcoming Movies";
+"movie_list.popular.title" = "Popular Movies";

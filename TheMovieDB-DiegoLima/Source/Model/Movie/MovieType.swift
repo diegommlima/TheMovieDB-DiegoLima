@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+enum MovieType {
+    case upcoming
+    case popular
+}
